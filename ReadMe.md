@@ -1,5 +1,4 @@
 #Ultimaker 2 Lid.
------------------
 
 An acrylic lid for the Ultimaker 2, 2+ and Extended to help keep dust off the printer bead and maintain a (slightly) more stable thermal environment.
 
@@ -10,25 +9,23 @@ An acrylic lid for the Ultimaker 2, 2+ and Extended to help keep dust off the pr
 * Use Tensol 12 glue to glue the lid together.
 
 ### Versions:
-=========
-V1.0: Initial version - ignore this.
-V1.1: First built version. Has option for hole through lid for camera - suggest not using this.
-V1.2: Untested - Features a larger opening at the back to allow 2x draft excluder brush sets to be added and an opening at the front for the Raspberry Pi 7" Touch screen.
-V1.2.1: Experimental & Untested - Builds on V1.2 but is 40mm higher which makes better use of the acrylic when in 600x400 sheets.
 
-Suggest using either V1.1 or V1.2 if you want the Pi Display. 
+* V1.0: Initial version - ignore this.
+* V1.1: First built version. Has option for hole through lid for camera - suggest not using this.
+* V1.2: Untested - Features a larger opening at the back to allow 2x draft excluder brush sets to be added and an opening at the front for the Raspberry Pi 7" Touch screen.
+* V1.2.1: Experimental & Untested - Builds on V1.2 but is 40mm higher which makes better use of the acrylic when in 600x400 sheets.
 
-Mix and Match V1.1 & V1.2:
-* The back form V1.2 can be used with the rest of V1.1 if you want the brush draft excludes but not the Pi Display.
+Use either V1.1 or V1.2 if you want the Pi Display. 
+
+Mix and Match V1.1 & V1.2. The back form V1.2 can be used with the rest of V1.1 if you want the brush draft excludes but not the Pi Display.
 
 ### Lid Size: 
-=========
+
 Width: 322mm
 Height: 220mm (240mm for V1.2.1)
 Depth: 335mm
 
 ## Assembly:
-=========
 
 Glue: Use Tensol 12. http://www.rapidonline.com/pdf/87-2330U.PDF
 
@@ -41,7 +38,7 @@ The lid is glued in 4 stages with a 3 hour gap between each stage to allow the g
 Black electrical tape is used to hold the box together when gluing, this works well as it's easily removed and can be stretched over corners to help keep the joints tight.
 
 ### Prep:
-~~~~~
+
 * You may wish to annealing the acrylic first to reduce the risk of cracking when glued. (See: https://en.wikipedia.org/wiki/Poly(methyl_methacrylate))
   * If using cast acrylic this may not be such an issue as the inner forces of the acrylic are less.
 * Cut 16 x 6 inch pieces of electrical tape ready to hold the box panels in place.
@@ -50,7 +47,7 @@ Black electrical tape is used to hold the box together when gluing, this works w
 * Glue will run through the lid joints onto the work bench. Working on a paper cover may result in the paper being stuck to the lid, use wood as the work top (suggest not kitchen work top!)
 
 When gluing:
-~~~~~~~~~~~~
+
 * Don't apply too much glue.
 * A 1-2mm bead size is ample. This will get drawn into the joint and give a high glue surface area.
 * Try to get glue only where it is needed otherwise it eats into the finished surface and looks horrible. (i.e. don't dribble)
@@ -59,7 +56,6 @@ When gluing:
 ** It might be worth running tape the length of the joint to prevent glue escaping???
 
 ### Assembly:
-~~~~~~~~~
 
 #### Phase 1 - Glue the bottom on:
 
