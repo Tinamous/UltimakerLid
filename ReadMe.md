@@ -2,6 +2,8 @@
 
 An acrylic lid for the Ultimaker 2, 2+ and Extended to help keep dust off the printer bead and maintain a (slightly) more stable thermal environment.
 
+![Ultimaker 2 Lid](/Pictures/2015-11-13 16.56.07.jpg)
+
 * Use 3mm Acrylic.
   * Use clear if you want to see your print when the lid is fitted!
   * Suggest using cast acrylic to reduce internal forces in sheets.
@@ -17,7 +19,9 @@ An acrylic lid for the Ultimaker 2, 2+ and Extended to help keep dust off the pr
 
 Use either V1.1 or V1.2 if you want the Pi Display. 
 
-Mix and Match V1.1 & V1.2. The back form V1.2 can be used with the rest of V1.1 if you want the brush draft excludes but not the Pi Display.
+Mix and Match V1.1 & V1.2. The back form V1.2 can be used with the rest of V1.1 if you want the brush draft excluder but not the Pi Display.
+
+If you don't use the draft excluded version cover the sharp edges where the boden tube goes through to prevent damadge. Some 6-8mm pipe the of the same material used for the boden tube, split along the length makes for a great cover.
 
 ### Lid Size: 
 
@@ -39,9 +43,9 @@ Black electrical tape is used to hold the box together when gluing, this works w
 
 ### Prep:
 
-* You may wish to annealing the acrylic first to reduce the risk of cracking when glued. (See: https://en.wikipedia.org/wiki/Poly(methyl_methacrylate))
+* You may wish to anneal the acrylic first to reduce the risk of cracking when glued. (See: https://en.wikipedia.org/wiki/Poly(methyl_methacrylate))
   * If using cast acrylic this may not be such an issue as the inner forces of the acrylic are less.
-* Cut 16 x 6 inch pieces of electrical tape ready to hold the box panels in place.
+* Cut 32 x 6 inch pieces of electrical tape ready to hold the box panels in place.
 * Remove the all protective covering off all the pieces, you don't want that glued into your lid.
 * Ensure you have a clean flat working surface and kitchen towel or similar to wipe up any dripped glue.
 * Glue will run through the lid joints onto the work bench. Working on a paper cover may result in the paper being stuck to the lid, use wood as the work top (suggest not kitchen work top!)
@@ -76,10 +80,10 @@ When gluing:
 
 #### Phase 2 - Glue one side:
 
-* Rotate the 180 degrees so the back panel is nearest to you
-* Flip forwards so the top is now facing you and the back panel is flat on the bench.
-* Remove the lid.
-* Run a bead of glue along both the mating edge of the back and side panels (should be horizontal on the bench now). 
+* Rotate the lid 180 degrees so the back panel is nearest to you.
+* Flip forwards so the top is now facing you and the back panel is laying flat on the bench.
+* Remove the top.
+* Run a bead of glue along both the mating edges of the back and side panels (should be horizontal on the bench now). 
   * Run the glue from the furthest away point stopping 20mm before getting to the lid top (i.e. going from lid bottom to top)
   * Be sure not to glue all the way to the lid top to prevent risk of gluing the top on at this stage.
 * Return glue bottle to fridge. 
@@ -98,8 +102,8 @@ When gluing:
 #### Phase 4 - Glue the top:
 
 * Ensure that the top if fitted squarely, add some electrical tape top hold it in place against the sides/back/front.
-* Rotate the lid forward so the lid is not flat on the bench.
-* You can now glue the 4 edges of the lid to the sides/front/back panels by putting your hand through the large hole in the base panel.
+* Rotate the lid forward so the lid top is now flat on the bench.
+* You can now glue the 4 edges of the top to the sides/front/back panels by putting your hand through the large hole in the base panel.
   * Don't tilt the glue bottle when doing this otherwise you'll get glue on the inside of the lid top. Tilt the bottle only when about to glue the edges.
 * Return glue bottle to fridge and wait 3 hours for the glue to set.
 * Remove the electrical tape.
