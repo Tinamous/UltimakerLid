@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 1052.3622 744.09447"
+   id="svg7639"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="DisplaySuround-2b.svg">
+  <defs
+     id="defs7641" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="740.18425"
+     inkscape:cy="194.0596"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g7274"
+     showgrid="true"
+     inkscape:window-width="2560"
+     inkscape:window-height="1335"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid8187" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7644">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.26772)">
+    <g
+       id="g7274">
+      <rect
+         ry="35.433071"
+         rx="35.433071"
+         y="606.75586"
+         x="35.433071"
+         height="410.17325"
+         width="719.14972"
+         id="rect6697"
+         style="opacity:1;fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.89999998;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccccccccc"
+         inkscape:connector-curvature="0"
+         id="rect6699"
+         d="m 694.84282,629.29154 0,0.3536 -589.96093,0 0,357.87501 200.55117,0 0,3.5429 166.53543,0 0,-3.5429 222.87433,0 0,-8.8594 z"
+         style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.89999998;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="91.34314"
+       y="537.36407"
+       id="text6701"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6703"
+         x="91.34314"
+         y="537.36407">Looking at back of display.</tspan><tspan
+         sodipodi:role="line"
+         x="91.34314"
+         y="587.36407"
+         id="tspan6353">Frame 2b. (Wide)</tspan></text>
+  </g>
+</svg>

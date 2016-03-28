@@ -1,0 +1,1 @@
+Same as V1.2 (Draft excluder at rear and Pi Display) but 40mm higher (to make better use of 600x400 acrylic sheet + give more stable zone at the top with lack of airflow
