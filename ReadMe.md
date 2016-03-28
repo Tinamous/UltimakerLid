@@ -2,7 +2,7 @@
 
 An acrylic lid for the Ultimaker 2, 2+ and Extended to help keep dust off the printer bead and maintain a (slightly) more stable thermal environment.
 
-![Ultimaker 2 Lid](/Pictures/2015-11-13 16.56.07.jpg)
+![Ultimaker 2 Lid](/Pictures/UltimakerLid.png)
 
 * Use 3mm Acrylic.
   * Use clear if you want to see your print when the lid is fitted!
