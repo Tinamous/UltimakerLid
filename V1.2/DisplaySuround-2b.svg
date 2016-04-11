@@ -59,15 +59,10 @@
      transform="translate(0,-308.26772)">
     <g
        id="g7274">
-      <rect
-         ry="35.433071"
-         rx="35.433071"
-         y="606.75586"
-         x="35.433071"
-         height="410.17325"
-         width="719.14972"
-         id="rect6697"
-         style="opacity:1;fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.89999998;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="opacity:1;fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.89999998;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 70.866142,606.75586 648.283578,0 c 19.62992,0 35.43307,15.80315 35.43307,35.43307 l 0,339.30711 c 0,19.62996 -15.80315,35.43306 -35.43307,35.43306 l -648.283578,0 c -19.629921,0 -35.433071,-15.8031 -35.433071,-35.43306 l 0,-339.30711 c 0,-19.62992 15.80315,-35.43307 35.433071,-35.43307 z"
+         id="rect6697" />
       <path
          sodipodi:nodetypes="ccccccccccc"
          inkscape:connector-curvature="0"
