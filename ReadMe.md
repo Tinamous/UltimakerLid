@@ -1,11 +1,11 @@
 #Ultimaker 2 Lid.
 
-An acrylic lid for the Ultimaker 2, 2+ and Extended to help keep dust off the printer bead and maintain a (slightly) more stable thermal environment.
+An acrylic lid for the Ultimaker 2, 2+ and Extended to help keep dust off the printer bead and maintain a more stable thermal environment.
 
 ![Ultimaker 2 Lid](/Pictures/UltimakerLid.png)
 
 * Use 3mm Acrylic.
-  * Use clear if you want to see your print when the lid is fitted!
+  * Use clear if you want to see your print when the lid is fitted
   * Suggest using cast acrylic to reduce internal forces in sheets.
 * Laser cutting guides are for 600x400 sheets.
 * Use Tensol 12 glue to glue the lid together.
@@ -13,13 +13,15 @@ An acrylic lid for the Ultimaker 2, 2+ and Extended to help keep dust off the pr
 ### Versions:
 
 * V1.0: Initial version - ignore this.
-* V1.1: First built version. Has option for hole through lid for camera - suggest not using this.
-* V1.2: Untested - Features a larger opening at the back to allow 2x draft excluder brush sets to be added and an opening at the front for the Raspberry Pi 7" Touch screen.
+* V1.1: First built version. Option for hole in the top to allow mounting of camera.
+* V1.2: Features a larger opening at the back to allow 2x draft excluder brush sets to be added and an opening at the front for the Raspberry Pi 7" Touch screen.
 * V1.2.1: Experimental & Untested - Builds on V1.2 but is 40mm higher which makes better use of the acrylic when in 600x400 sheets.
 
-Use either V1.1 or V1.2 if you want the Pi Display. 
+V1.2 is the best option. However if you don't want the Pi Display mount on the front use the front panel from V1.1 (or remove in Inkscape).
 
-Mix and Match V1.1 & V1.2. The back form V1.2 can be used with the rest of V1.1 if you want the brush draft excluder but not the Pi Display.
+Draft excluder used is Wickes "Brush Draught Excluder" - White PVCu. Product Id:218004 (http://www.wickes.co.uk/Wickes-Door-Brush-Draught-Excluder-White-838mm/p/218004)
+
+V1.1 has a smaller opening for the Ultimaker boden tube and cables, if you don't want to use the draft excluder this version is better. Use the base of V1.1 as well as the opening is a different size.
 
 If you don't use the draft excluded version cover the sharp edges where the boden tube goes through to prevent damadge. Some 6-8mm pipe the of the same material used for the boden tube, split along the length makes for a great cover.
 
@@ -45,19 +47,18 @@ Black electrical tape is used to hold the box together when gluing, this works w
 
 * You may wish to anneal the acrylic first to reduce the risk of cracking when glued. (See: https://en.wikipedia.org/wiki/Poly(methyl_methacrylate))
   * If using cast acrylic this may not be such an issue as the inner forces of the acrylic are less.
-* Cut 32 x 6 inch pieces of electrical tape ready to hold the box panels in place.
+* Cut ~32 x 4-6 inch pieces of electrical tape ready to hold the box panels in place.
 * Remove the all protective covering off all the pieces, you don't want that glued into your lid.
 * Ensure you have a clean flat working surface and kitchen towel or similar to wipe up any dripped glue.
-* Glue will run through the lid joints onto the work bench. Working on a paper cover may result in the paper being stuck to the lid, use wood as the work top (suggest not kitchen work top!)
+* Glue will run through the lid joints onto the work bench. Working on a paper cover will result in the paper being stuck to the lid, use wood as the work top (suggest not kitchen work top!)
 
 When gluing:
 
 * Don't apply too much glue.
 * A 1-2mm bead size is ample. This will get drawn into the joint and give a high glue surface area.
 * Try to get glue only where it is needed otherwise it eats into the finished surface and looks horrible. (i.e. don't dribble)
-* Don't let the glue dispenser warm to much as the glue becomes very runny and is difficult to work with. Always return the glue to the fridge.
+* Don't let the glue dispenser warm to much as the glue becomes very runny and is difficult to work with very quickly. Always return the glue to the fridge.
 * You may wish to move the lid slightly every now and then shortly after gluing to remove any excess glue of the surface the lid is sitting on. Don't wipe the lid through as this will smear glue over it and look horrible.
-** It might be worth running tape the length of the joint to prevent glue escaping???
 
 ### Assembly:
 
@@ -118,7 +119,7 @@ Hardening to reduce the 3 weeks can be speeded up by heating AFTER 24 hours, ref
 ##### Draft excluder brushes
 
 * Cut 2 lengths of draft excluder brush to fit the rear gap. 
-  * Try to cut it so that the the first hole in the draft excluder lines up with the hole in the acrylic.
+  * Try to cut it so that one of the holes in the draft excluder lines up with a hole in the acrylic otherwise it will look odd
   * The brush should sit on the outside of the back of the lid with the fat part sitting in the gap towards the inside of the lid, this provides protection against the sharp edges of the lid for the moving cables and boden tube
 * Mark then drill the other 2 holes in each brush of the draft excluder.
 * You may wish to crimp the lower end of each brush to stop the bristles coming out now it's been cut.
@@ -127,12 +128,12 @@ Hardening to reduce the 3 weeks can be speeded up by heating AFTER 24 hours, ref
 ##### 7" Pi Display
 
 * Cut 2x outlines from 3mm acrylic for the display (see V1.2 files).
-  * If using V1.2 this may well come out of the offcuts from the back and front panel
+  * If using V1.2 this may well come out of the offcuts from the back and front panel and the base panel.
 * Attach the Pi Display PCB onto the display and connect up the flex cables
-* Attach the display PCB to PI flex cable (do not connect to the Pi at this time)
-* Attach the 5v + GND (and SDA/SCL) cables to the display PCB
+* Attach the display PCB to Pi flex cable (do not connect to the Pi at this time)
+* Attach the 5v & GND cables to the display PCB
 * Plug the Micro USB cable into the display PCB
-* You may be able to attach the Pi now but it's probably easier to wait.
+** If using a Pi 3 with WiFi the voltage drop on the USB cable may be to large so use 2x USB cables, one for the Pi and one for the display and link only the GND connection
 * Fit the smaller acrylic display mount first to the display
 * Fit the slightly larger one next (this gives a stepped impression around the bottom and sides of the display
   * Ensure the cut out on the inside is at the bottom where the flex cable is.
@@ -142,7 +143,7 @@ Hardening to reduce the 3 weeks can be speeded up by heating AFTER 24 hours, ref
 * Mound the display to the lid using M3 machine screws and washers on the inside to spread the load of the forces (don't over tighten) - suggest nylon bolts.
 * Mount the Pi onto the display as you would do normally.
 * Run the power cable to the bottom of the lid and around the edge to the right and hold in place with sticky feet and cable ties (ensure it won't get snagged with the printer head).
-* Take the USB cable out of the lid via the small hole at the back right.
+* Take the USB cable out of the lid via the small hole at the back right (V1.2+ only)
 * Don't fix the cable to the ultimaker as this will hinder you removing the lid.
 * Optionally include Ethernet cable if you're not using Wi-Fi
 * Optionally include a USB camera on the back of the lid to monitor the roll, run the USB cable for that with the power USB cable
@@ -151,4 +152,3 @@ Hardening to reduce the 3 weeks can be speeded up by heating AFTER 24 hours, ref
 * Optionally attach a Pi Camera and mount that as desired.
 * Optionally attach a Pi Hat to light up or monitor the temperature/humidity inside the lid.
 * Optionally run OctoPi/OctoPrint on the Pi (NB: This doesn't appear to work overly well with the printer, we use it only for webcam monitoring).
-* Optionally cut a small part of the remaining brush and use it to cover the USB connectors hole, or use something else, but it can be left open - heat loss from that is likely to be minimal.
