@@ -21,10 +21,10 @@ An acrylic lid for the Ultimaker 2, 2+ and Extended to help keep dust off the pr
 * V1.0: Initial version - ignore this.
 * V1.1: First built version. Option for hole in the top to allow mounting of camera.
 * V1.2: Features a larger opening at the back to allow 2x draft excluder brush sets to be added and an opening at the front for the Raspberry Pi 7" Touch screen.
-* V1.2.1: Builds on V1.2 but is 40mm higher which makes better use of the acrylic when in 600x400 sheets.
-* V1.2.2: Experimental & Untested - Builds on V1.2.1 with better cutout for Pi Display, 40mm fan for pi cooling, 80 or 120mm fan cutouts at back.
+* V1.2.1: Do no use - Builds on V1.2 but is 40mm higher which makes better use of the acrylic when in 600x400 sheets. Appears Pi Display design changed.
+* V1.2.2: Builds on V1.2.1 with better cutout for Pi Display, 40mm fan for pi cooling, 80 or 120mm fan cutouts at back.
 
-V1.2 is the best option. However if you don't want the Pi Display mount on the front use the front panel from V1.1 (or remove in Inkscape).
+V1.2.2 is the best option. However if you don't want the Pi Display mount on the front remove this in Inkscape or the laser cutter software.
 
 Draft excluder used is Wickes "Brush Draught Excluder" - White PVCu. Product Id:218004 (http://www.wickes.co.uk/Wickes-Door-Brush-Draught-Excluder-White-838mm/p/218004)
 
